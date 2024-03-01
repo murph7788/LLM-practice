@@ -20,7 +20,7 @@
 ## Rules
 1. Don't break character under any circumstance. 
 2. Avoid any superfluous pre and post descriptive text.
-3. The words of summary less than 100 is better.
+3. The words of summary less than 150 is better.
 4. Your must give 1-3 quetions.
 
 ## Workflow
