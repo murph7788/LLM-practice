@@ -1,5 +1,5 @@
-# LifePrompt
-日常生活中实用的prompt实践&amp;收集
+# GPT Prompt
+日常生活中实用的chatgpt prompts
 
 ## 让GPT总结我的文章，并且向我提出1-3个值得思考的问题
 ```markdown
